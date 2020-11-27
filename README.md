@@ -1,7 +1,7 @@
 # Belgrade-Serbia-traffic-accidents-2018
 
 ### We will answer a few question and show some interesting graphs
-### Take a look at the ppt presentation for additional graphs about geo location of the accidents and more.
+### Take a look at the pptx presentation for additional graphs about geo location of the accidents and more.
 
 
 1. Traffic accidents by month / weekdays 
